@@ -1,0 +1,19 @@
+{
+  "name": "journly",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.jsx",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/anishbasu/journly.git"
+  },
+  "author": "Anish Basu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/anishbasu/journly/issues"
+  },
+  "homepage": "https://github.com/anishbasu/journly#readme"
+}
